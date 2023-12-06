@@ -1,2 +1,1 @@
-# s
 using basic JavaScript
